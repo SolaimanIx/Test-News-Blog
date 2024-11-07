@@ -1,0 +1,27 @@
+<?php
+return [
+ 'email'=>'Email',
+ 'password'=>'Password',
+ 'login'=>'Login',
+ 'login_page'=>'Login to Control Panel',
+ 'remember_me'=>'Remember Me',
+ 'login_failed'=>'Login credentials not found in our records',
+ 'logout'=>'Logout',
+ 'categories'=>'Categories',
+ 'dashboard'=>'Dashboard',
+ 'action'=>'Action',
+ 'create'=>'Create',
+ 'edit'=>'Edit',
+ 'show'=>'Show',
+ 'delete'=>'Delete',
+ 'save'=>'Save',
+ 'delete_message'=>'Are you sure you want to delete this record?',
+ 'delete'=>'Delete',
+ 'cancel'=>'Cancel',
+ 'news'=>'News',
+ 'created_at'=>'Created At',
+ 'updated_at'=>'Updated At',
+ 'choose'=>'Choose',
+ 'users' => 'Users',
+ 
+];

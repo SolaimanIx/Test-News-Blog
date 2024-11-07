@@ -1,0 +1,22 @@
+<?php
+return [
+    'home' => 'Home',
+    'add_user' => 'Add User',
+    'language' => 'Language',
+    'arabic' => 'عربي',
+    'english' => 'English',
+    'login' => 'Login',
+    'egister' => 'Register',
+    'users' => 'Users',
+    'email' => 'Email',
+    'name' => 'Name',
+    'comment' => 'Comment',
+    'write_comment' => 'Write Your Comment',
+    'add' => 'Add',
+    'obile' => 'Mobile',
+    'address' => 'Address',
+    'itename' => 'News',
+    'eadmore' => 'Read More...',
+    'news_id' => 'News ID',
+    'comments' => 'Comments',
+  ];
